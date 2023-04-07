@@ -1,0 +1,3 @@
+from THIS_IS_DUMB import SODUMB
+
+thingy = SODUMB.SODUMBCLASS()
